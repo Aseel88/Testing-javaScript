@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "test": "ava"
+    },
+    "dependencies": {
+        "unique-random-array": "^3.0.0"
+    },
+    "devDependencies": {
+        "ava": "^3.15.0"
+    }
+}
